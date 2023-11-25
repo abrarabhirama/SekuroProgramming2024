@@ -1,3 +1,7 @@
 halo
 tes commmit
 
+update : 
+git add *
+git commmit -m "add text"
+git push
