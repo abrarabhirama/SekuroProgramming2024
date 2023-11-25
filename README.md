@@ -1,2 +1,3 @@
-"aaa" 
-"# SekuroProgramming2024" 
+NAMA    = ABRAR ABHIRAMA WIDYADHANA
+NIM     = 19623023
+FAKULTAS/JURUSAN = STEI-K
