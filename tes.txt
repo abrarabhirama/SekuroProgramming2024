@@ -2,6 +2,8 @@ halo
 tes commmit
 
 update : 
+cd documents
+cd SEKURO
 git add *
 git commmit -m "add text"
 git push
