@@ -1,0 +1,5 @@
+int64 komponenY
+int64 komponenX
+int64 komponenZ
+---
+int64 magnitude

@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/abrar/modul4no2py/devel -DCMAKE_INSTALL_PREFIX=/home/abrar/modul4no2py/install -G Unix Makefiles
