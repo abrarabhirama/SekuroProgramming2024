@@ -1,0 +1,2 @@
+demo_pkg
+-DCATKIN_DEVEL_PREFIX=/home/abrar/modul4no2cpp/devel -DCMAKE_INSTALL_PREFIX=/home/abrar/modul4no2cpp/install -G Unix Makefiles
